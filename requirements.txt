@@ -1,1 +1,1 @@
-twitter==1.14.2
+-e git+https://github.com/bear/python-twitter@788f032752d9cadfcae5b35f7b9e6b4b39aeeec0#egg=python_twitter-master
